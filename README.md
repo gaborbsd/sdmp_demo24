@@ -3,4 +3,4 @@
 alma, pear, banana
 
 
-Copyright (C) Gábor Kövesdán 2024
+Copyright (C) Gábor Kövesdán 2024-2025
